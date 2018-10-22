@@ -75,6 +75,7 @@ Currently known supported models:
 - LC-52LE925UN
 - LC-60LE925UN
 - LC-60LE857U
+- LC-60LE650U
 - LC-60EQ10U
 - LC-60SQ15U
 
